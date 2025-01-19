@@ -1,10 +1,11 @@
-# Depined 自动连接和自动推荐
+# Depined 机器人
 
-![banner](image.png)
+![image](https://github.com/user-attachments/assets/3d2050ee-36b4-43d3-81e3-ac5e638d212c)
+
 
 ## 功能
 
-- **自动连接小部件**
+- **自动连接**
 - **支持多账户**
 - **支持使用代理**
 
