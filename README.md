@@ -61,3 +61,6 @@
    - [922proxy](https://www.922proxy.com/register?inviter_code=d6416857)
    - [Proxy-Cheap](https://app.proxy-cheap.com/r/Pd6sqg)
    - [Infatica](https://dashboard.infatica.io/aff.php?aff=580)
+- 付费动态IP代理
+   - [IPRoyal](https://iproyal.com/?r=733417)
+
